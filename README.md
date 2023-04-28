@@ -23,7 +23,7 @@ pip install pygame
 To get started, you can clone the project repository from GitHub:
 
 ```
-git clone https://github.com/<username>/<project-name>.git
+gh repo clone assem449/TicTacToeGame
 ```
 
 ## Running the Game
