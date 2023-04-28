@@ -44,7 +44,7 @@ The game can be played by two players. Player 1 uses the X symbol, while Player 
 
 To make a move, simply click on an empty square on the board. The game will alternate between players until one of the players gets three in a row.
 
-If you want to start a new game, simply click on the "New Game" button.
+If you want to start a new game, simply type in the cosole "Yes"/"Y"/"y", if not type "No"/"N"/"n".
 
 ## Built With
 
