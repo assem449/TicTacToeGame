@@ -28,11 +28,9 @@ gh repo clone assem449/TicTacToeGame
 
 ## Running the Game
 
-To run the game, simply navigate to the project directory and run the following command:
+Navigate to the project directory: Once Pygame is installed, navigate to the directory containing the game files using the terminal.
 
-```
-python TicTacToe.py
-```
+Run the game: Run the game by running the TicTacToe.py file. To do this, enter the command python TicTacToe.py in the terminal.
 
 ## How to Play
 
